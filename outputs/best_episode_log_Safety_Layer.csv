@@ -1,0 +1,25 @@
+step,pos,reward,cost,hazard,collision,proximity,proposed,safe_action,intervened
+0,"[1, 0]",-5.6,0.0,False,False,False,LEFT,DOWN,True
+1,"[2, 0]",-5.4,0.0,False,False,False,LEFT,DOWN,True
+2,"[3, 0]",-5.2,0.0,False,False,False,LEFT,DOWN,True
+3,"[4, 0]",-5.0,0.0,False,False,False,LEFT,DOWN,True
+4,"[5, 0]",-4.8,0.0,False,False,False,LEFT,DOWN,True
+5,"[6, 0]",-4.6,0.0,False,False,False,LEFT,DOWN,True
+6,"[7, 0]",-4.4,0.0,False,False,False,LEFT,DOWN,True
+7,"[8, 0]",-4.2,0.0,False,False,False,LEFT,DOWN,True
+8,"[9, 0]",-4.0,0.0,False,False,False,LEFT,DOWN,True
+9,"[10, 0]",-3.8,0.0,False,False,False,LEFT,DOWN,True
+10,"[11, 0]",-3.6,0.0,False,False,False,LEFT,DOWN,True
+11,"[12, 0]",-3.4,0.0,False,False,False,LEFT,DOWN,True
+12,"[12, 1]",-3.2,0.0,False,False,False,DOWN,RIGHT,True
+13,"[12, 2]",-3.0,0.0,False,False,False,DOWN,RIGHT,True
+14,"[12, 3]",-2.8,0.0,False,False,False,DOWN,RIGHT,True
+15,"[12, 4]",-2.6,0.0,False,False,False,DOWN,RIGHT,True
+16,"[12, 5]",-2.4,0.0,False,False,False,RIGHT,RIGHT,False
+17,"[12, 6]",-2.2,0.0,False,False,False,RIGHT,RIGHT,False
+18,"[12, 7]",-2.0,0.0,False,False,False,RIGHT,RIGHT,False
+19,"[12, 8]",-1.8,0.0,False,False,False,DOWN,RIGHT,True
+20,"[12, 9]",-1.6,0.0,False,False,False,DOWN,RIGHT,True
+21,"[12, 10]",-1.4,0.0,False,False,False,RIGHT,RIGHT,False
+22,"[12, 11]",-1.2,0.0,False,False,False,RIGHT,RIGHT,False
+23,"[12, 12]",249.0,0.0,False,False,False,RIGHT,RIGHT,False

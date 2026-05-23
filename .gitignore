@@ -1,0 +1,7 @@
+# Ignore Python compiled bytecode folders
+__pycache__/
+*.py[cod]
+
+# Ignore environment variables and secrets
+.env
+
