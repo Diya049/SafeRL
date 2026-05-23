@@ -24,10 +24,10 @@ Start (0,0) ──────────────────────�
 
 | Element | Effect |
 |---|---|
-| 🧱 Walls | Impassable barriers forming a maze |
-| 💧 Hazard cells (×8) | −40 reward, episode ends immediately |
-| 🧍 Humans (×3, random walk) | −50 reward on collision, −5 if within distance 2 |
-| 🎯 Goal | +200 reward |
+| Walls | Impassable barriers forming a maze |
+| Hazard cells (×8) | −40 reward, episode ends immediately |
+| Humans (×3, random walk) | −50 reward on collision, −5 if within distance 2 |
+| Goal | +200 reward |
 
 Every episode, humans are re-placed randomly and walk unpredictably — the agent must generalise, not memorise.
 
@@ -192,9 +192,9 @@ This changes in **continuous-action, high-dimensional** environments where you c
 ## Citation
 
 ```bibtex
-@misc{safe_rl_gridworld_2025,
+@misc{safe_rl_gridworld_2026,
   title   = {Safe Reinforcement Learning in Human-Populated Grid Environments},
-  year    = {2025},
+  year    = {2026},
   note    = {Comparative study of Lagrangian RL and Safety Layer approaches
              on a constrained navigation benchmark}
 }
